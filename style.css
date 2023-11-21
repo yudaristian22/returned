@@ -57,7 +57,10 @@ body{
     top: 0;
     left: 0;
 }
-
+#header .logo{
+    width: 160px;
+    height: 60px;
+}
 #navbar{
     display: flex;
     align-items: center;
