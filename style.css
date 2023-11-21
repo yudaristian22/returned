@@ -129,7 +129,6 @@ body{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    padding: 50px;
 }
 #feature .fe-box{
     width: 180px;
