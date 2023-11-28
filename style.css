@@ -799,7 +799,10 @@ footer .copyright{
     footer .copyright{
         text-align: start;
     }
-
+    #page-header{
+        height: 20vh;
+        width: 100%;
+    }
     /* Single Product */
     #prodetails{
         display: flex;
