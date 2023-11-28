@@ -799,10 +799,12 @@ footer .copyright{
     footer .copyright{
         text-align: start;
     }
+
+    /* Shop Page */
     #page-header{
         height: 20vh;
-        width: 100%;
     }
+    
     /* Single Product */
     #prodetails{
         display: flex;
